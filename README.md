@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @DGuim4
 - 👀 I'm interested in becoming a fullstack developer
-- 🌱 I'm currently learning html, css, js.
+- 🌱 I'm currently learning html, css, js
 - 📫 Discord: mob2530
 - 😄 Pronouns: he/him
 <!---
